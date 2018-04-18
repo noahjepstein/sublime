@@ -1,0 +1,8 @@
+// These settings override both User and Default settings for the C++ syntax
+{
+	"rulers": [120],
+    "margin": 0,
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "scroll_speed": 1.25
+}

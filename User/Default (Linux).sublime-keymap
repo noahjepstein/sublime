@@ -1,0 +1,4 @@
+[
+	{ "keys": ["alt+r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} }
+	
+]

@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Clang Format",
+		"GitGutter",
+		"Package Control",
+		"PackageResourceViewer",
+		"Python PEP8 Autoformat",
+		"rsub",
+		"Six",
+		"Theme - Brogrammer"
+	]
+}

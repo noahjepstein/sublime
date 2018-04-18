@@ -1,0 +1,18 @@
+{
+	"caret_style": "solid",
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"fold_buttons": false,
+	"font_size": 7.5,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 0,
+	"rulers":
+	[
+		120
+	],
+	"theme": "Brogrammer.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false
+}
