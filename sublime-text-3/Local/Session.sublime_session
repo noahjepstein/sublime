@@ -1,0 +1,1014 @@
+{
+	"folder_history":
+	[
+		"/home/noah/tdl/tdl",
+		"/home/noah/dr-b/src/library/util",
+		"/home/noah/tdl/tdl/imc",
+		"/home/noah/dr-b/src/library",
+		"/home/noah/tdl/tdl/aio",
+		"/home/noah/dr-c/src/library/mhdm",
+		"/home/noah/dr-c/src/program/mhdm",
+		"/home/noah/dr-a/src/program",
+		"/home/noah/dr-b/src/program",
+		"/home/noah/dr-c/src/program",
+		"/home/noah/dr-c/src/interface",
+		"/home/noah/dr-c/src/library",
+		"/home/noah/dr-a/param",
+		"/home/noah/dr-a/src/library/mhdm",
+		"/home/noah/dr-b/src/library/driver_controls",
+		"/home/noah/dr-b/src/program/simulator",
+		"/home/noah/dr-b/src/test",
+		"/home/noah/dr-a/src/library",
+		"/home/noah/dr-a/param/default",
+		"/home/noah/dr-b/src/library/mhdm",
+		"/home/noah/dr-a/src/scripts",
+		"/home/noah/.config/sublime-text-3/Packages/Six",
+		"/home/noah/dr-a/src/interface",
+		"/home/noah/dr-b/src/interface",
+		"/home/noah/.aws",
+		"/home/noah/.oh-my-zsh",
+		"/home/noah/guardian-research/driving-utils",
+		"/home/noah/guardian-research",
+		"/home/noah/dr-a/src/interface/driver_controls",
+		"/home/noah/driving/src"
+	],
+	"last_version": 3143,
+	"last_window_id": 84,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 475.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Force",
+						"ForceFeedback"
+					],
+					[
+						"DriverCon",
+						"DriverControlsApp"
+					],
+					[
+						"force",
+						"force_feedback_sender"
+					],
+					[
+						"enable",
+						"enable_msg_sender"
+					],
+					[
+						"Intr",
+						"IntrinsicallyValidDriverControls"
+					],
+					[
+						"feedback",
+						"feedback_state_receiver"
+					],
+					[
+						"driver",
+						"driver_controls_receiver"
+					],
+					[
+						"feedback_cont",
+						"feedback_controller_"
+					],
+					[
+						"current",
+						"current_brake_"
+					],
+					[
+						"feed",
+						"feedback_state_signal_"
+					],
+					[
+						"Feedback",
+						"FeedbackStateSignal"
+					],
+					[
+						"driver_con",
+						"driver_controls_signal_"
+					],
+					[
+						"Alignment",
+						"AlignmentFeedbackSources"
+					],
+					[
+						"For",
+						"ForceFeedbackState"
+					],
+					[
+						"Hand",
+						"HandleForceFeedbackStateTimer"
+					],
+					[
+						"UX",
+						"UxFeedbackTestFixture"
+					],
+					[
+						"Road",
+						"RoadFeelFeedbackSources"
+					],
+					[
+						"All",
+						"AllTorqueFeedbackSources"
+					],
+					[
+						"enabled",
+						"enabled_set"
+					],
+					[
+						"last",
+						"last_intervention_state_"
+					],
+					[
+						"Feed",
+						"FeedbackEnableMsg"
+					],
+					[
+						"kSimu",
+						"kSimucubeSetpointScalingFactor"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 396.0,
+				"last_filter": "six",
+				"selected_items":
+				[
+					[
+						"six",
+						"Preferences: Six Settings"
+					],
+					[
+						"package resour",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Install Package Control"
+					]
+				],
+				"width": 479.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/noah/dr-b/src/interface/driver_controls/driver_controls_messages.h",
+				"/home/noah/dr-b/src/program/driver_controls/driver_controls.cc",
+				"/home/noah/dr-b/src/program/driver_controls/feedback_controller.cc",
+				"/home/noah/dr-b/src/program/driver_controls/test/driver_controls_test.cc",
+				"/home/noah/dr-b/src/program/driver_controls/driver_controls.h",
+				"/home/noah/dr-b/src/program/fovio_gaze_camera/test/fovio_replay.cc",
+				"/home/noah/dr-b/src/program/driver_controls/feedback_controller.h",
+				"/home/noah/dr-b/src/program/point_cloud/test/point_cloud_driver_test.cc",
+				"/home/noah/dr-b/src/program/guardian/test/teleop_test.cc",
+				"/home/noah/dr-b/src/program/guardian/teleop.h",
+				"/home/noah/dr-b/src/tdl/tdl",
+				"/home/noah/dr-b/src/program/fovio_gaze_camera/test/fovio_parser_test.cc",
+				"/home/noah/dr-b/src/program/examples/1_pure_messaging.cc",
+				"/home/noah/dr-b/src/program/multi_robot_simulator/mrs_test.cc",
+				"/home/noah/dr-b/param/default/base.ini",
+				"/home/noah/dr-b/src/program/platform_driver/platform_driver.cc",
+				"/home/noah/dr-b/src/library/can/configurable_can.cc",
+				"/home/noah/dr-b/src/program/guardian/teleop.cc",
+				"/home/noah/dr-b/src/library/point_cloud/luminar_sensor.cc",
+				"/home/noah/dr-b/src/program/magic_planner/create_magic_map.cc",
+				"/home/noah/dr-b/src/program/driver_controls/BUILD",
+				"/home/noah/dr-b/src/program/ublox/test/ublox_parser_test.cc",
+				"/home/noah/dr-a/program",
+				"/home/noah/dr-b/src/library/driver_controls/driver_controls.h",
+				"/home/noah/dr-b/src/library/driver_controls/osw/oswheel.cc",
+				"/home/noah/dr-b/src/library/driver_controls/feedback_controller.cc",
+				"/home/noah/dr-b/src/library/driver_controls/osw/oswheel.h",
+				"/home/noah/.config/sublime-text-3/Packages/Theme - Brogrammer/Brogrammer.sublime-theme",
+				"/home/noah/dr-a/param/param_server_instructions.txt",
+				"/home/noah/dr-a/src/library/mhdm/policy_decider_guardian.h",
+				"/home/noah/dr-c/src/program/intervention_controller/feedback_states.h",
+				"/home/noah/dr-b/src/library/radical/feedback_states.cpp",
+				"/home/noah/dr-c/src/program/driver_state/test/driver_state_estimator_test.cc",
+				"/home/noah/dr-c/src/program/intervention_controller/intervention_controller.cc",
+				"/home/noah/dr-c/src/program/guardian/test/teleop_test.cc",
+				"/home/noah/dr-c/src/program/guardian/teleop.h",
+				"/home/noah/dr-c/src/program/intervention_controller/BUILD",
+				"/home/noah/dr-c/src/program/startup_menu/startup_menu.py",
+				"/home/noah/dr-c/src/program/startup_menu/menu_entries.py",
+				"/home/noah/dr-c/src/program/startup_menu/startup_menu",
+				"/home/noah/dr-c/src/program/platform_driver/can_vehicle_status.h",
+				"/home/noah/dr-c/src/interface/driver_controls/feedback_sources.h",
+				"/home/noah/dr-c/src/program/intervention_controller/intervention_controller.h",
+				"/home/noah/dr-c/src/program/platform_driver/platform_driver.h",
+				"/home/noah/dr-c/src/program/platform_driver/platform_driver.cc",
+				"/home/noah/dr-a/src/tes",
+				"/home/noah/dr-a/src/library/driver_controls/feedback_controller.cc",
+				"/home/noah/dr-a/src/library/driver_controls/logitech/hid_devices.cc",
+				"/home/noah/dr-a/src/program/simulator/steering_wheel_control.cc",
+				"/home/noah/dr-a/src/program/simulator/simulator.cc",
+				"/home/noah/dr-a/src/program/simulator/microautobox_simulator.cc",
+				"/home/noah/dr-a/src/program/simulator/aux_steering_receiver.cc",
+				"/home/noah/dr-a/src/program/simulator/test/aux_steering_receiver_test.cc",
+				"/home/noah/dr-a/src/program/simulator/aux_keyboard_bridge.h",
+				"/home/noah/dr-a/src/program/simulator/aux_keyboard_bridge.cc",
+				"/home/noah/dr-a/src/program/simulator/test/driver_controls_message_sender_test.cc",
+				"/home/noah/dr-a/src/program/simulator/driver_controls_message_sender.cc",
+				"/home/noah/dr-a/src/program/simulator/test/aux_keyboard_bridge_test.cc",
+				"/home/noah/dr-a/src/program/simulator/keyboard_car_driver.cc",
+				"/home/noah/dr-a/src/program/simulator/aux_steering_receiver.h",
+				"/home/noah/dr-a/src/program/simulator/microautobox_controller.cc",
+				"/home/noah/dr-a/src/library/driver_controls/test/feedback_controller_test.cc",
+				"/home/noah/dr-a/src/library/driver_controls/driver_controls.h",
+				"/home/noah/dr-a/src/library/driver_controls/logitech/logitech_wheel.h",
+				"/home/noah/dr-a/src/library/driver_controls/logitech/logitech_wheel.cc",
+				"/home/noah/dr-a/src/library/driver_controls/feedback_controller.h",
+				"/home/noah/dr-a/src/library/driver_controls/osw/simucube_wheel.h",
+				"/home/noah/dr-a/src/library/driver_controls/osw/simucube_wheel.cc",
+				"/home/noah/dr-a/src/library/driver_controls/osw/oswheel.h",
+				"/home/noah/dr-a/src/library/driver_controls/osw/oswheel.cc",
+				"/home/noah/dr-a/src/inter",
+				"/home/noah/.config/sublime-text-3/Packages/Clang Format/clang_format_custom.sublime-settings",
+				"/home/noah/dr-a/src/interface/driver_controls/vibration_types.h",
+				"/home/noah/dr-a/src/interface/radical_dot/lidar_messages.",
+				"/home/noah/.config/sublime-text-3/Packages/rsub/rsub.sublime-settings",
+				"/home/noah/dr-a/src/interface/driver_controls/driver_controls_interface.cc"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"450",
+					"feedback_enable",
+					"enable",
+					"feedbac",
+					"fb",
+					"ForceFeedback",
+					"regis",
+					"regsiter",
+					"public",
+					"900",
+					"         ",
+					"0.0",
+					"0",
+					"1",
+					"drivercontrols",
+					"debug_service",
+					"BOOST_TEST",
+					"      (",
+					"BOOST_TEST",
+					"bool",
+					"void",
+					"feedback_state",
+					"bool",
+					"std",
+					"std::clamp",
+					"accelerator_position",
+					"->",
+					"driver_controls_signal_",
+					"wheel_"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 19.0
+			},
+			"input":
+			{
+				"height": 30.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"driver",
+						"driver_controls/driver_controls.h"
+					],
+					[
+						"driver_controls_test",
+						"driver_controls/test/driver_controls_test.cc"
+					],
+					[
+						"teleop",
+						"guardian/test/teleop_test.cc"
+					],
+					[
+						"examples/",
+						"examples/1_pure_messaging.cc"
+					],
+					[
+						"tele",
+						"guardian/teleop.cc"
+					],
+					[
+						"feedback",
+						"driver_controls/feedback_controller.h"
+					],
+					[
+						"simu",
+						"driver_controls/osw/simucube_wheel.h"
+					],
+					[
+						"inter",
+						"intervention_controller/intervention_controller.h"
+					],
+					[
+						"intervention",
+						"intervention_controller/intervention_controller.cc"
+					],
+					[
+						"plat",
+						"platform_driver/platform_driver.h"
+					],
+					[
+						"platform",
+						"platform_driver/platform_driver.cc"
+					],
+					[
+						"can_veh",
+						"platform_driver/can_vehicle_status.h"
+					],
+					[
+						"u",
+						"intervention_controller/ux.h"
+					],
+					[
+						"ux",
+						"intervention_controller/ux.cc"
+					],
+					[
+						"logitech",
+						"driver_controls/logitech/logitech_wheel.cc"
+					],
+					[
+						"aux_driver",
+						"simulator/configs/aux_driver_spoofer.py"
+					],
+					[
+						"micro",
+						"simulator/microautobox_simulator.cc"
+					],
+					[
+						"aux_stern",
+						"simulator/test/aux_steering_receiver_test.cc"
+					],
+					[
+						"steering",
+						"simulator/steering_wheel_control.cc"
+					],
+					[
+						"simulator.cc",
+						"simulator/simulator.cc"
+					],
+					[
+						"driver_controls_message_sender",
+						"simulator/driver_controls_message_sender.cc"
+					],
+					[
+						"aux_steering",
+						"simulator/test/aux_steering_receiver_test.cc"
+					],
+					[
+						"aux",
+						"simulator/aux_steering_receiver.h"
+					],
+					[
+						"mab",
+						"simulator/aux_keyboard_bridge.h"
+					],
+					[
+						"dri",
+						"driver_controls/driver_controls.h"
+					],
+					[
+						"fee",
+						"driver_controls/test/feedback_controller_test.cc"
+					],
+					[
+						"feed",
+						"driver_controls/test/feedback_controller_test.cc"
+					],
+					[
+						"logit",
+						"driver_controls/logitech/logitech_wheel.cc"
+					],
+					[
+						"oswhe",
+						"driver_controls/osw/oswheel.cc"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 169.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 634.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"feedback_cont",
+						"feedback_controller_"
+					],
+					[
+						"feedback",
+						"feedback_state_signal_"
+					],
+					[
+						"driver",
+						"driver_controls"
+					],
+					[
+						"current",
+						"current_brake_"
+					],
+					[
+						"feed",
+						"feedback_state_signal_"
+					],
+					[
+						"Feedback",
+						"FeedbackStateSignal"
+					],
+					[
+						"driver_con",
+						"driver_controls_signal_"
+					],
+					[
+						"Alignment",
+						"AlignmentFeedbackSources"
+					],
+					[
+						"For",
+						"ForceFeedbackState"
+					],
+					[
+						"Hand",
+						"HandleForceFeedbackStateTimer"
+					],
+					[
+						"UX",
+						"UxFeedbackTestFixture"
+					],
+					[
+						"Road",
+						"RoadFeelFeedbackSources"
+					],
+					[
+						"All",
+						"AllTorqueFeedbackSources"
+					],
+					[
+						"enabled",
+						"enabled_set"
+					],
+					[
+						"last",
+						"last_intervention_state_"
+					],
+					[
+						"Feed",
+						"FeedbackEnableMsg"
+					],
+					[
+						"kSimu",
+						"kSimucubeSetpointScalingFactor"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/noah/dr-a/src/program/intervention_controller/intervention_controller.cc",
+					"settings":
+					{
+						"buffer_size": 14557,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/noah/dr-c/src/program/guardian/test/teleop_test.cc",
+					"settings":
+					{
+						"buffer_size": 5927,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 396.0,
+				"last_filter": "six",
+				"selected_items":
+				[
+					[
+						"six",
+						"Preferences: Six Settings"
+					],
+					[
+						"package resour",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Install Package Control"
+					]
+				],
+				"width": 479.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/noah/dr-a/src/program"
+			],
+			"file_history":
+			[
+				"/home/noah/dr-b/src/library/util/imc_test_context.h",
+				"/home/noah/dr-a/program",
+				"/home/noah/dr-b/src/library/driver_controls/driver_controls.h",
+				"/home/noah/dr-b/src/library/driver_controls/osw/oswheel.cc",
+				"/home/noah/dr-b/src/library/driver_controls/feedback_controller.cc",
+				"/home/noah/dr-b/src/library/driver_controls/osw/oswheel.h",
+				"/home/noah/.config/sublime-text-3/Packages/Theme - Brogrammer/Brogrammer.sublime-theme",
+				"/home/noah/dr-a/param/param_server_instructions.txt",
+				"/home/noah/dr-a/src/library/mhdm/policy_decider_guardian.h",
+				"/home/noah/dr-c/src/program/intervention_controller/feedback_states.h",
+				"/home/noah/dr-b/src/library/radical/feedback_states.cpp",
+				"/home/noah/dr-c/src/program/driver_state/test/driver_state_estimator_test.cc",
+				"/home/noah/dr-c/src/program/intervention_controller/intervention_controller.cc",
+				"/home/noah/dr-c/src/program/guardian/test/teleop_test.cc",
+				"/home/noah/dr-c/src/program/guardian/teleop.h",
+				"/home/noah/dr-c/src/program/intervention_controller/BUILD",
+				"/home/noah/dr-c/src/program/startup_menu/startup_menu.py",
+				"/home/noah/dr-c/src/program/startup_menu/menu_entries.py",
+				"/home/noah/dr-c/src/program/startup_menu/startup_menu",
+				"/home/noah/dr-c/src/program/platform_driver/can_vehicle_status.h",
+				"/home/noah/dr-c/src/interface/driver_controls/feedback_sources.h",
+				"/home/noah/dr-c/src/program/intervention_controller/intervention_controller.h",
+				"/home/noah/dr-c/src/program/platform_driver/platform_driver.h",
+				"/home/noah/dr-c/src/program/platform_driver/platform_driver.cc",
+				"/home/noah/dr-a/src/tes",
+				"/home/noah/dr-a/src/library/driver_controls/feedback_controller.cc",
+				"/home/noah/dr-a/src/library/driver_controls/logitech/hid_devices.cc",
+				"/home/noah/dr-a/src/program/simulator/steering_wheel_control.cc",
+				"/home/noah/dr-a/src/program/simulator/simulator.cc",
+				"/home/noah/dr-a/src/program/simulator/microautobox_simulator.cc",
+				"/home/noah/dr-a/src/program/simulator/aux_steering_receiver.cc",
+				"/home/noah/dr-a/src/program/simulator/test/aux_steering_receiver_test.cc",
+				"/home/noah/dr-a/src/program/simulator/aux_keyboard_bridge.h",
+				"/home/noah/dr-a/src/program/simulator/aux_keyboard_bridge.cc",
+				"/home/noah/dr-a/src/program/simulator/test/driver_controls_message_sender_test.cc",
+				"/home/noah/dr-a/src/program/simulator/driver_controls_message_sender.cc",
+				"/home/noah/dr-a/src/program/simulator/test/aux_keyboard_bridge_test.cc",
+				"/home/noah/dr-a/src/program/simulator/keyboard_car_driver.cc",
+				"/home/noah/dr-a/src/program/simulator/aux_steering_receiver.h",
+				"/home/noah/dr-a/src/program/simulator/microautobox_controller.cc",
+				"/home/noah/dr-a/src/library/driver_controls/test/feedback_controller_test.cc",
+				"/home/noah/dr-a/src/library/driver_controls/driver_controls.h",
+				"/home/noah/dr-a/src/library/driver_controls/logitech/logitech_wheel.h",
+				"/home/noah/dr-a/src/library/driver_controls/logitech/logitech_wheel.cc",
+				"/home/noah/dr-a/src/library/driver_controls/feedback_controller.h",
+				"/home/noah/dr-a/src/library/driver_controls/osw/simucube_wheel.h",
+				"/home/noah/dr-a/src/library/driver_controls/osw/simucube_wheel.cc",
+				"/home/noah/dr-a/src/library/driver_controls/osw/oswheel.h",
+				"/home/noah/dr-a/src/library/driver_controls/osw/oswheel.cc",
+				"/home/noah/dr-a/src/inter",
+				"/home/noah/.config/sublime-text-3/Packages/Clang Format/clang_format_custom.sublime-settings",
+				"/home/noah/dr-a/src/interface/driver_controls/vibration_types.h",
+				"/home/noah/dr-a/src/interface/radical_dot/lidar_messages.",
+				"/home/noah/.config/sublime-text-3/Packages/rsub/rsub.sublime-settings",
+				"/home/noah/dr-a/src/interface/driver_controls/driver_controls_interface.cc"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/noah/dr-a/src/program"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/noah/dr-a/src/program/intervention_controller/intervention_controller.cc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14557,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2626,
+										2626
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"vim":
+									{
+										"xpos": 42
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/noah/dr-c/src/program/guardian/test/teleop_test.cc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5927,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2194,
+										2194
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"vim":
+									{
+										"xpos": 0
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 19.0
+			},
+			"input":
+			{
+				"height": 30.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,27,1280,1403,5120,1440",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"inter",
+						"intervention_controller/intervention_controller.cc"
+					],
+					[
+						"feedback",
+						"driver_controls/feedback_controller.h"
+					],
+					[
+						"driver",
+						"driver_controls/driver_controls.cc"
+					],
+					[
+						"simu",
+						"driver_controls/osw/simucube_wheel.h"
+					],
+					[
+						"intervention",
+						"intervention_controller/intervention_controller.cc"
+					],
+					[
+						"plat",
+						"platform_driver/platform_driver.h"
+					],
+					[
+						"platform",
+						"platform_driver/platform_driver.cc"
+					],
+					[
+						"can_veh",
+						"platform_driver/can_vehicle_status.h"
+					],
+					[
+						"u",
+						"intervention_controller/ux.h"
+					],
+					[
+						"ux",
+						"intervention_controller/ux.cc"
+					],
+					[
+						"logitech",
+						"driver_controls/logitech/logitech_wheel.cc"
+					],
+					[
+						"aux_driver",
+						"simulator/configs/aux_driver_spoofer.py"
+					],
+					[
+						"micro",
+						"simulator/microautobox_simulator.cc"
+					],
+					[
+						"aux_stern",
+						"simulator/test/aux_steering_receiver_test.cc"
+					],
+					[
+						"steering",
+						"simulator/steering_wheel_control.cc"
+					],
+					[
+						"simulator.cc",
+						"simulator/simulator.cc"
+					],
+					[
+						"driver_controls_message_sender",
+						"simulator/driver_controls_message_sender.cc"
+					],
+					[
+						"aux_steering",
+						"simulator/test/aux_steering_receiver_test.cc"
+					],
+					[
+						"aux",
+						"simulator/aux_steering_receiver.h"
+					],
+					[
+						"mab",
+						"simulator/aux_keyboard_bridge.h"
+					],
+					[
+						"dri",
+						"driver_controls/driver_controls.h"
+					],
+					[
+						"fee",
+						"driver_controls/test/feedback_controller_test.cc"
+					],
+					[
+						"feed",
+						"driver_controls/test/feedback_controller_test.cc"
+					],
+					[
+						"logit",
+						"driver_controls/logitech/logitech_wheel.cc"
+					],
+					[
+						"oswhe",
+						"driver_controls/osw/oswheel.cc"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 169.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 74,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

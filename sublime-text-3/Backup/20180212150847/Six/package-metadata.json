@@ -1,0 +1,1 @@
+{"url": "http://www.sublimesix.com", "platforms": ["*"], "version": "0.8.64", "description": "Advanced Vim emulation.", "dependencies": [], "sublime_text": ">=3124"}
